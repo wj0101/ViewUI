@@ -87,7 +87,7 @@ const lang = {
             items: 'itens',
             prev5: 'Voltar 5 páginas',
             next5: 'Avançar 5 páginas',
-            page: '/page',
+            page: '/página',
             goto: 'Ir para',
             p: ''
         },
